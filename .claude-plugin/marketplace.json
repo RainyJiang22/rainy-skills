@@ -11,16 +11,16 @@
   "plugins": [
     {
       "name": "flutter-related",
-      "source": "./flutter-related",
+      "source": "./skills/flutter-related",
       "description": "flutter技能相关",
       "skills": [
-        "./flutter-related/flutter-enterprise-code-review",
-        "./flutter-related/flutter-architecture"
+        "./skills/flutter-related/flutter-enterprise-code-review",
+        "./skills/flutter-related/flutter-architecture"
       ]
     },
       {
       "name": "android-related",
-      "source": "./android-related",
+      "source": "./skills/android-related",
       "description": "android技能相关",
       "skills": [
 
@@ -28,10 +28,10 @@
     },
       {
       "name": "soft-daily",
-      "source": "./soft-daily",
+      "source": "./skills/soft-daily",
       "description": "日常常用的技能相关",
       "skills": [
-         "./soft-daily/skill-creator"
+         "./skills/soft-daily/skill-creator"
       ]
     }
   ]
