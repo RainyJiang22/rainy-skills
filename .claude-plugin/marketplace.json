@@ -14,8 +14,8 @@
       "source": "./skills/flutter-related",
       "description": "flutter技能相关",
       "skills": [
-        "/flutter-enterprise-code-review",
-        "/flutter-architecture"
+        "./skills/flutter-related/flutter-enterprise-code-review",
+        "./skills/flutter-related/flutter-architecture"
       ]
     },
       {
@@ -31,7 +31,7 @@
       "source": "./skills/soft-daily",
       "description": "日常常用的技能相关",
       "skills": [
-         "/skill-creator"
+         ".skills/soft-daily/skill-creator"
       ]
     }
   ]
