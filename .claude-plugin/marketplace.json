@@ -1,0 +1,37 @@
+{
+  "name": "rainy-skills",
+  "owner": {
+    "name": "RainyJiang",
+    "email": "jiangshiyuxs@gmail.com"
+  },
+  "metadata": {
+    "description": "A personal skills repository, collecting/compiling skills used in daily Android & Flutter development to help improve efficiency.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "flutter-related",
+      "source": "./flutter-related",
+      "description": "flutter技能相关",
+      "skills": [
+        "./flutter-related/flutter-enterprise-code-review"
+      ]
+    },
+      {
+      "name": "android-related",
+      "source": "./android-related",
+      "description": "android技能相关",
+      "skills": [
+
+      ]
+    },
+      {
+      "name": "soft-daily",
+      "source": "./soft-daily",
+      "description": "日常常用的技能相关",
+      "skills": [
+         "./soft-daily/skill-creator"
+      ]
+    }
+  ]
+}
