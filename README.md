@@ -9,7 +9,7 @@
 在 Claude Code 中运行：
 
 ```bash
-/plugin marketplace add RainyJiang/rainy-skills
+/plugin marketplace add RainyJiang22/rainy-skills
 ```
 
 ### 安装技能
