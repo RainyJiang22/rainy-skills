@@ -1,4 +1,9 @@
 
+## 1.2.0 - 2026-3-11
+- 新增Android架构，xml转compose技能
+- 新增自定义Github知识库技能，vibecoding时有问题优先查询github相关开源库并clone存储下来
+
+
 ## 1.1.0 - 2026-3-10
 - 新增Android协程相关技能
 - 删除官方plugins.json文件，在marketplace.json里添加metadata标签
