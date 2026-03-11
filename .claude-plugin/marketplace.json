@@ -6,32 +6,34 @@
   },
   "metadata": {
     "description": "A personal skills repository, collecting/compiling skills used in daily Android & Flutter development to help improve efficiency.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "flutter-related",
-      "source": "./skills/flutter-related",
+      "source": "./",
       "description": "flutter技能相关",
       "skills": [
-        "./skills/flutter-related/flutter-enterprise-code-review",
-        "./skills/flutter-related/flutter-architecture"
+        "./skills/flutter-enterprise-code-review",
+        "./skills/flutter-architecture"
       ]
     },
-      {
+    {
       "name": "android-related",
-      "source": "./skills/android-related",
+      "source": "./",
       "description": "android技能相关",
       "skills": [
-        "./skills/android-related/android-coroutines"
+        "./skills/android-coroutines",
+        "./skills/android-architecture",
+        "./skills/xml-to-compose-migration"
       ]
     },
-      {
+    {
       "name": "soft-daily",
       "source": "./skills/soft-daily",
       "description": "日常常用的技能相关",
       "skills": [
-         "./skills/soft-daily/skill-creator"
+        "./skills/skill-creator"
       ]
     }
   ]
