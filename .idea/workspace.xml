@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8dcf9ac-590b-4207-b8bb-0d5d27379167" name="更改" comment="feat：add android-coroutines skills">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rainy-skills.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/android-architecture/SKILL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/xml-to-compose-migration/SKILL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.claude-plugin/marketplace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude-plugin/marketplace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/android-related/android-coroutines/SKILL.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/android-coroutines/SKILL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/SKILL.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/SKILL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/engineering.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/engineering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/layering.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/layering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/network.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/network.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/state-routing-animation.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/state-routing-animation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/storage.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/storage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/references/ui.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/references/ui.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-architecture/scripts/list_lib_modules.sh" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-architecture/scripts/list_lib_modules.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-enterprise-code-review/SKILL.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-enterprise-code-review/SKILL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-enterprise-code-review/references/checklist.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-enterprise-code-review/references/checklist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-enterprise-code-review/references/module-review-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-enterprise-code-review/references/module-review-plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-enterprise-code-review/references/review-output.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-enterprise-code-review/references/review-output.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/flutter-related/flutter-enterprise-code-review/scripts/list_dart_modules.sh" beforeDir="false" afterPath="$PROJECT_DIR$/skills/flutter-enterprise-code-review/scripts/list_dart_modules.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/SKILL.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/SKILL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/references/output-patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/references/output-patterns.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/references/workflows.md" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/references/workflows.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/scripts/init_skill.py" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/scripts/init_skill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/scripts/package_skill.py" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/scripts/package_skill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills/soft-daily/skill-creator/scripts/quick_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/skills/skill-creator/scripts/quick_validate.py" afterDir="false" />
+    <list default="true" id="b8dcf9ac-590b-4207-b8bb-0d5d27379167" name="更改" comment="feat：新增github知识库技能">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/rainyjiang/rainy-skills/skills",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rainyjiang/rainy-skills/skills&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/skills" />
@@ -201,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773114790574</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat：新增Android 架构，xml转compose技能">
+      <option name="closed" value="true" />
+      <created>1773195823367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773195823367</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat：新增github知识库技能">
+      <option name="closed" value="true" />
+      <created>1773196032490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773196032490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +211,8 @@
     <MESSAGE value="fix:source相对路径" />
     <MESSAGE value="revert:source相对路径" />
     <MESSAGE value="feat：add android-coroutines skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：add android-coroutines skills" />
+    <MESSAGE value="feat：新增Android 架构，xml转compose技能" />
+    <MESSAGE value="feat：新增github知识库技能" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增github知识库技能" />
   </component>
 </project>

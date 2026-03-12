@@ -1,4 +1,7 @@
 
+## 1.3.0 - 2026-3-12
+- 新增消除文章ai痕迹技能
+
 ## 1.2.0 - 2026-3-11
 - 新增Android架构，xml转compose技能
 - 新增自定义Github知识库技能，vibecoding时有问题优先查询github相关开源库并clone存储下来
