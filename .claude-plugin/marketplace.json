@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "A personal skills repository, collecting/compiling skills used in daily Android & Flutter development to help improve efficiency.",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "plugins": [
     {
@@ -25,7 +25,16 @@
       "skills": [
         "./skills/android-coroutines",
         "./skills/android-architecture",
-        "./skills/xml-to-compose-migration"
+        "./skills/xml-to-compose-migration",
+        "./skills/android-emulator-skill",
+        "./skills/android-data-layer",
+        "./skills/android-gradle-logic",
+        "./skills/android-retrofit",
+        "./skills/android-testing",
+        "./skills/coil-compose",
+        "./skills/compose-navigation",
+        "./skills/compose-ui",
+        "./skills/compose-preformance-audit"
       ]
     },
     {
