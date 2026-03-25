@@ -15,7 +15,8 @@
       "description": "flutter技能相关",
       "skills": [
         "./skills/flutter-enterprise-code-review",
-        "./skills/flutter-architecture"
+        "./skills/flutter-architecture",
+        "./skills/flutter-book-summary"
       ]
     },
     {
